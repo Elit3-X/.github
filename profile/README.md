@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="profile/header.png" alt="Elit3-X Banner" width="100%" />
+  <img src="header.png" alt="Elit3-X Banner" width="100%" />
 </div>
 
 <div align="center">
