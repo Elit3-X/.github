@@ -15,12 +15,15 @@ From brand identity to scalable platforms, we turn ambitious ideas into reality.
 We are a full-service digital agency with expertise across design, development, and strategy.
 
 ### **Brand Identity & Product Design**
+
 Strategic brand development from naming to full visual systems that capture your unique value. End-to-end product design from research to pixel-perfect interfaces.
 
 ### **Web Development & Mobile Apps**
+
 Performant, accessible websites and web applications built with modern technologies. Native and cross-platform mobile applications with exceptional user experiences.
 
 ### **Motion, 3D & AI Integration**
+
 Dynamic animations and immersive 3D experiences that bring products to life. We leverage AI to create smarter products with generative features and automation.
 
 ---
@@ -28,19 +31,27 @@ Dynamic animations and immersive 3D experiences that bring products to life. We 
 ## 🚀 Selected Work
 
 ### 🌐 [EliteX Platform](https://elite-x.tech)
+
 **Status**: Live | **Stack**: Next.js, Vercel, TailwindCSS
+
 > Our flagship digital presence. A testament to modern web performance, aesthetic design, and our capabilities in **EliteX General Intelligence**.
 
 ### 🌌 [Kriyaverse](https://kriyaverse.com)
+
 **Status**: Live | **Stack**: WebGL, React, Three.js
+
 > An immersive digital universe. Kriyaverse represents the intersection of spiritual technology and modern digital experience, creating a seamless flow for users to explore and connect.
 
 ### 📞 [Komotel](https://komotel.vercel.app)
+
 **Status**: Beta | **Stack**: React, Realtime Communication
+
 > A next-generation communication platform designed to bridge the gap between businesses and customers with seamless, real-time interaction.
 
 ### 🧠 Antigravity Skill Library
+
 **Status**: Internal Core | **Stack**: AI Agents, Python, TypeScript
+
 > A proprietary library of autonomous agent skills and workflows, powering our internal development velocity and AI capabilities.
 
 ---
@@ -61,6 +72,20 @@ We leverage the bleeding edge of software engineering to deliver robust, scalabl
 ![MCP](https://img.shields.io/badge/MCP_Protocol-5A45FF?style=flat-square&logo=databricks&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=flat-square&logo=robot&logoColor=white)
 ![OpenClaw](https://img.shields.io/badge/OpenClaw-FF4F00?style=flat-square&logo=github&logoColor=white)
+
+### **Chatbots & Conversational AI**
+
+![Botpress](https://img.shields.io/badge/Botpress-000000?style=flat-square&logo=botpress&logoColor=white)
+![Voiceflow](https://img.shields.io/badge/Voiceflow-3D3D3D?style=flat-square&logo=voiceflow&logoColor=white)
+![Landbot](https://img.shields.io/badge/Landbot-00E6B8?style=flat-square&logo=landbot&logoColor=white)
+![Intercom](https://img.shields.io/badge/Intercom-0057FF?style=flat-square&logo=intercom&logoColor=white)
+
+### **Automation & Workflow Orchestration**
+
+![n8n](https://img.shields.io/badge/n8n-FF6C37?style=flat-square&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
+![Make.com](https://img.shields.io/badge/Make.com-7B31F2?style=flat-square&logo=make&logoColor=white)
+![Pipedream](https://img.shields.io/badge/Pipedream-000000?style=flat-square&logo=pipedream&logoColor=white)
 
 ### **AI-Powered Dev Tools**
 
@@ -135,6 +160,6 @@ We leverage the bleeding edge of software engineering to deliver robust, scalabl
 
 ---
 
-*Innovating at the edge of possibility.*
+_Innovating at the edge of possibility._
 
 © 2026 Elit3-X. All rights reserved.
