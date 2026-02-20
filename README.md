@@ -79,6 +79,7 @@ We leverage the bleeding edge of software engineering to deliver robust, scalabl
 ![Voiceflow](https://img.shields.io/badge/Voiceflow-3D3D3D?style=flat-square&logo=voiceflow&logoColor=white)
 ![Landbot](https://img.shields.io/badge/Landbot-00E6B8?style=flat-square&logo=landbot&logoColor=white)
 ![Intercom](https://img.shields.io/badge/Intercom-0057FF?style=flat-square&logo=intercom&logoColor=white)
+![Dify](https://img.shields.io/badge/Dify-155AFA?style=flat-square&logo=dify&logoColor=white)
 
 ### **Automation & Workflow Orchestration**
 
