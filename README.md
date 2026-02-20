@@ -72,6 +72,7 @@ We leverage the bleeding edge of software engineering to deliver robust, scalabl
 ![MCP](https://img.shields.io/badge/MCP_Protocol-5A45FF?style=flat-square&logo=databricks&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=flat-square&logo=robot&logoColor=white)
 ![OpenClaw](https://img.shields.io/badge/OpenClaw-FF4F00?style=flat-square&logo=github&logoColor=white)
+![Goose AI](https://img.shields.io/badge/Goose_AI-FFC107?style=flat-square&logo=duckduckgo&logoColor=black)
 
 ### **Chatbots & Conversational AI**
 
