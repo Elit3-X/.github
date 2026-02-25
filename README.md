@@ -32,25 +32,25 @@ Dynamic animations and immersive 3D experiences that bring products to life. We 
 
 ### 🌐 [EliteX Platform](https://elite-x.tech)
 
-**Status**: Live | **Stack**: Next.js, Vercel, TailwindCSS
+**Status**: Live | **Stack**: Next.js 15, TypeScript, TailwindCSS, Framer Motion, Supabase, Vercel
 
 > Our flagship digital presence. A testament to modern web performance, aesthetic design, and our capabilities in **EliteX General Intelligence**.
 
 ### 🌌 [Kriyaverse](https://kriyaverse.com)
 
-**Status**: Live | **Stack**: WebGL, React, Three.js
+**Status**: Live | **Stack**: WebGL, React, Three.js, Spline, TailwindCSS, Vercel
 
 > An immersive digital universe. Kriyaverse represents the intersection of spiritual technology and modern digital experience, creating a seamless flow for users to explore and connect.
 
 ### 📞 [Komotel](https://komotel.vercel.app)
 
-**Status**: Beta | **Stack**: React, Realtime Communication
+**Status**: Beta | **Stack**: Next.js 15, React, Botpress, PostHog, Payload CMS, TypeScript, TailwindCSS, Supabase, Vercel
 
 > A next-generation communication platform designed to bridge the gap between businesses and customers with seamless, real-time interaction.
 
 ### 🧠 Antigravity Skill Library
 
-**Status**: Internal Core | **Stack**: AI Agents, Python, TypeScript
+**Status**: Internal Core | **Stack**: AI Agents, Python, TypeScript, OpenClaw, Anthropic, Gemini, Vercel
 
 > A proprietary library of autonomous agent skills and workflows, powering our internal development velocity and AI capabilities.
 
