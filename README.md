@@ -44,7 +44,7 @@ Dynamic animations and immersive 3D experiences that bring products to life. We 
 
 ### 📞 [Komotel](https://komotel.vercel.app)
 
-**Status**: Beta | **Stack**: Next.js 15, React, Botpress, PostHog, Payload CMS, TypeScript, TailwindCSS, Supabase, Vercel
+**Status**: Live | **Stack**: Next.js 15, React, Botpress, PostHog, Payload CMS, TypeScript, TailwindCSS, Supabase, Vercel
 
 > A next-generation communication platform designed to bridge the gap between businesses and customers with seamless, real-time interaction.
 
