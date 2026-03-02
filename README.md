@@ -48,6 +48,18 @@ Dynamic animations and immersive 3D experiences that bring products to life. We 
 
 > A next-generation communication platform designed to bridge the gap between businesses and customers with seamless, real-time interaction.
 
+### 🍷 [Veliano](https://veliano.com)
+
+**Status**: In Development | **Stack**: Next.js 15, TypeScript, TailwindCSS, Supabase, Vercel
+
+> A premium digital storefront and brand experience, delivering aesthetic design and seamless e-commerce functionality.
+
+### 🛍️ [KaufDahoam](https://kaufdahoam.de)
+
+**Status**: Beta | **Stack**: Next.js, React, Supabase, PostgreSQL, TailwindCSS, Vercel
+
+> A regional digital marketplace and commerce platform designed to empower local businesses and connect them with their communities.
+
 ### 🧠 Antigravity Skill Library
 
 **Status**: Internal Core | **Stack**: AI Agents, Python, TypeScript, OpenClaw, Anthropic, Gemini, Vercel
