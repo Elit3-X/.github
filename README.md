@@ -60,6 +60,12 @@ Dynamic animations and immersive 3D experiences that bring products to life. We 
 
 > A regional digital marketplace and commerce platform designed to empower local businesses and connect them with their communities.
 
+### ✨ Alchema
+
+**Status**: In Development | **Stack**: TanStack Start, React, Mistral AI, PostHog, Apify, Neon Postgres, Drizzle ORM, Better Auth, Vercel AI SDK, Turborepo
+
+> EU-sovereign AI platform for career acceleration and market intelligence. Engineered for complete data privacy utilizing European-hosted AI models and comprehensive analytics pipelines.
+
 ### 🧠 Antigravity Skill Library
 
 **Status**: Internal Core | **Stack**: AI Agents, Python, TypeScript, OpenClaw, Anthropic, Gemini, Vercel
@@ -85,6 +91,7 @@ We leverage the bleeding edge of software engineering to deliver robust, scalabl
 ![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=flat-square&logo=robot&logoColor=white)
 ![OpenClaw](https://img.shields.io/badge/OpenClaw-FF4F00?style=flat-square&logo=github&logoColor=white)
 ![Goose AI](https://img.shields.io/badge/Goose_AI-FFC107?style=flat-square&logo=duckduckgo&logoColor=black)
+![Agent Zero](https://img.shields.io/badge/Agent_Zero-000000?style=flat-square&logo=robot&logoColor=white)
 
 ### **Chatbots & Conversational AI**
 
